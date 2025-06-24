@@ -13,10 +13,10 @@ A modern, attractive, and fully responsive static website for a technology and c
 - Placeholder images and icons for easy customization
 
 ## Live Demo
-[View Live Site](https://your-live-link.com) 
+[View Live Site](https://multipage-ui.vercel.app/) 
 
 ## Screenshot
-![Website Screenshot](image.png) 
+![Website Screenshot](screenshot.png) 
 
 ## Structure
 ```
@@ -32,9 +32,3 @@ A modern, attractive, and fully responsive static website for a technology and c
   /images/
   README.md
 ```
-
-## Usage
-Open any of the HTML files in your browser. All navigation links work between pages. Add your images to the `/images` folder as needed. Replace placeholder images and text with your own content for a personalized site.
-
----
-*Built for real-world static site best practices by Kanak Solutions.* 
